@@ -6,10 +6,10 @@
  git conflig --global user.email "abc@yz.com"
 ```
 
-#Phần 2 - Khởi tạo Git repo
+# Phần 2 - Khởi tạo Git repo
 ## Lệnh đề khởi tạo Git repo là: "git init"
 
-#Phần 3 - Commit
+# Phần 3 - Commit
 ## Dung hai lệnh để commit thay đổi lên Git repo:
 
 ```
@@ -17,5 +17,5 @@
  git commit -m "Thông điệp commit"
 ```
 
-#Phần 4 -Push 
+# Phần 4 -Push 
 ## Push local repo lên Remote repo trên Github.
